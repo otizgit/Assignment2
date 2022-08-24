@@ -1,0 +1,24 @@
+a {
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+}
+
+a img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+table {
+    font-size: 10px;
+}
+table, th, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 5px;
+}
